@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="tab_equipes">
+        <item>Jaraaf</item>
+        <item>Casa Sports</item>
+        <item>La linguére</item>
+        <item>Teungueth FC</item>
+        <item>Génération Foot</item>
+        <item>Diambars</item>
+        <item>AS Pikine</item>
+        <item>Guédiawaye FC</item>
+        <item>US Gorée</item>
+        <item>CNEPS  FC </item>
+        <item>Dakar SC</item>
+        <item>Mbour PC</item>
+        <item>ASEC Ndiambour</item>
+        <item>AS Douanes</item>
+    </string-array>
+
+    <string-array name="tab_details">
+        <item>Nom: Jaraaf Football Club, Location: Dakar
+        </item>
+        <item>Nom: Casa Sports Football CLub, Location: Ziguinchor
+        </item>
+        <item>Nom: Association sportive et culturelle La Linguère de Saint-Louis, Location: Saint-Louis
+        </item>
+        <item>Nom: Teungueth Football Club, Location: Rufisque
+        </item>
+        <item>Nom: Génération Football Club, Location: Mbour
+        </item>
+        <item> Nom: Diambars Football Club, Location: Mbour
+        </item>
+        <item>Nom: Association Sportive de Pikine, Location: Dakar
+        </item>
+        <item>Nom: Guédiawaye Football Club, Location: Dakar
+        </item>
+        <item>Nom: Union Sportive de Gorée, Location: Dakar
+        </item>
+        <item>CNEPS Excellence Football Club, Location: Thiés
+        </item>
+        <item>Nom: Dakar Sacre Coeur, Location: Dakar
+        </item>
+        <item>Nom: Mbour Petite-Cote, Location: Mbour
+        </item>
+        <item>Nom: Association Sportive et Culturelle de Ndiambour , Location: Louga
+        </item>
+        <item>Nom: Association Sportive des Douanes, Location: Dakar
+        </item>
+    </string-array>
+    <string-array name="tab_match">
+        <item>Jaraaf vs Génération Foot</item>
+        <item>Casa Sports vs As Pikine</item>
+        <item>La Linguère vs Teungueth FC</item>
+        <item>Guédiawaye Fc vs Diambars</item>
+        <item>Mbour PC vs AS Douanes </item>
+        <item>CNEPS FC vs Dakar SC</item>
+        <item>ASEC Ndiambour vs US Gorée</item>
+    </string-array>
+    <string-array name="tab_tickets">
+        <item>Stade: Stade Abdoulaye Wade, Ticket: 1000fcfa</item>
+        <item>Stade: Stade Aline-Sitoe-Diatta, ticket: 1000fcfa</item>
+        <item>Stade: Stade Mawade Wade , Ticket: 1000fcfa</item>
+        <item>Stade: Stade Alassane Djigo, Ticket: 1000fcfa</item>
+        <item>Stade: Stade Caroline Faye, Ticket: 1000fcfa</item>
+        <item>Stade: Stade Lat-Dior Diop, Ticket: 1000fcfa</item>
+        <item>Stade: Stade ASEC de Ndiambour, Ticket: 1000fcfa</item>
+    </string-array>
+    <string-array name="tab_rencontres">
+        <item>Jaraaf vs Génération Foot</item>
+        <item>Casa Sports vs As Pikine</item>
+        <item>La Linguère vs Teungueth FC</item>
+        <item>Guédiawaye Fc vs Diambars</item>
+        <item>Mbour PC vs AS Douanes </item>
+        <item>CNEPS FC vs Dakar SC</item>
+        <item>ASEC Ndiambour vs US Gorée</item>
+    </string-array>
+    <string-array name="tab_result">
+        <item>Jaraaf 2 vs Génération Foot 1 </item>
+        <item>Casa Sports 3 vs As Pikine 2 </item>
+        <item>La Linguère 0 vs Teungueth FC 1 </item>
+        <item>Guédiawaye Fc 2 vs Diambars 2 </item>
+        <item>Mbour PC 1 vs AS Douanes 0 </item>
+        <item>CNEPS FC 0 vs Dakar SC 0 </item>
+        <item>ASEC Ndiambour 1 vs US Gorée 0 </item>
+    </string-array>
+</resources>

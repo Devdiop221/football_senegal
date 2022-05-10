@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/nav_consultation"
+            android:icon="@drawable/ic_consul_equipe"
+            android:title="@string/consul_teams" />
+        <item
+            android:id="@+id/nav_tickets"
+            android:icon="@drawable/ic_lieu_match"
+            android:title="@string/locate_match" />
+
+        <item
+            android:id="@+id/nav_encours"
+            android:icon="@drawable/ic_match_encours"
+            android:title="@string/match_schedule" />
+
+        <item
+            android:id="@+id/nav_result"
+            android:icon="@drawable/ic_resultat_match"
+            android:title="@string/match_results" />
+
+        <item
+            android:id="@+id/nav_stadium"
+            android:icon="@drawable/ic_location_stadium"
+            android:title="@string/stadium" />
+
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@drawable/ic_help"
+            android:title="@string/help" />
+    </group>
+</menu>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.devdiop.gestionfoot.ui.home.HomeFragment"
+        android:label="@string/home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/nav_consultation"
+        android:name="com.devdiop.gestionfoot.TeamsFragment"
+        android:label="@string/consul_teams"
+        tools:layout="@layout/fragment_teams" />
+    <fragment
+        android:id="@+id/nav_tickets"
+        android:name="com.devdiop.gestionfoot.StadiumFragment"
+        android:label="@string/locate_match"
+        tools:layout="@layout/fragment_stadium" />
+    <fragment
+        android:id="@+id/nav_encours"
+        android:name="com.devdiop.gestionfoot.MatchFragment"
+        android:label="@string/match_schedule"
+        tools:layout="@layout/fragment_match" />
+
+    <fragment
+        android:id="@+id/nav_result"
+        android:name="com.devdiop.gestionfoot.ResultFragment"
+        android:label="@string/match_results"
+        tools:layout="@layout/fragment_result" />
+
+    <fragment
+        android:id="@+id/nav_stadium"
+        android:name="com.devdiop.gestionfoot.StadesFragment"
+        android:label="@string/stadium"
+        tools:layout="@layout/fragment_stades" />
+
+    <fragment
+        android:id="@+id/nav_help"
+        android:name="com.devdiop.gestionfoot.HelpFragment"
+        android:label="@string/help"
+        tools:layout="@layout/fragment_help" />
+
+
+
+
+</navigation>

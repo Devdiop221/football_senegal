@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Football Senegal</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title"> Presentation Football Senegalais</string>
+    <string name="nav_header_subtitle">devdiop221@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="home">Presentation</string>
+    <string name="consul_teams">Consulter les equipes</string>
+    <string name="locate_match">Lieux Matches et Tickets</string>
+    <string name="match_schedule">Matchs organises</string>
+    <string name="match_results">Resultats des matches</string>
+    <string name="stadium">Les Stades</string>
+    <string name="help">Aide</string>
+    <string name="menu_presentation">L\'équipe du Sénégal de football, créée en 1961, est constituée par une sélection des meilleurs joueurs sénégalais, sous l\'égide de la Fédération sénégalaise de football.
+L\'équipe du Sénégal est entraînée depuis mars 2015 par son ancien capitaine Aliou Cissé. Ils sont les recentes vainqueurs de la coupe d\'afrique des nations de football (CAN) 2022.Le Sénégal obtient son indépendance vis-à-vis de la France, le 10 avril 1960. La fédération sénégalaise de football (FSF) est fondée en 1960. Le premier match officiel du Sénégal a lieu le 31 décembre 1961, à l\’extérieur, contre le Dahomey (actuel Bénin) et se conclut par la défaite sénégalaise 2 buts à 3. La fédération sénégalaise de football (FSF) est affiliée à la FIFA depuis 1962 et est membre de la Confédération africaine de football depuis 1963. Le Sénégal ne qualifie à aucune Coupe du monde durant cette période, mais participe trois fois à la Coupe d\'Afrique des Nations 1965 (4e place) 1968 et 1986, élimination au premier tour.
+    Quelques jours avant le début de la CAN 2021, le président Macky Sall met la pression sur l\'équipe nationale, annoncée comme l\'une des favorites de la phase finale de la compétition jouée au Cameroune : "Cette fois-ci, je ne parle pas de finale mais de coupe (...) Vous pouvez le faire. Vous êtes les meilleurs aux plans tactique, technique et qualitatif.". Sans briller, les sénégalais parviennent à se qualifier pour les huitièmes de finale en finissant premiers de leur groupe. Lors de la phase à élimination directe, l\'équipe monte en puissance et élimine respectivement le Cap-Vert, la Guinée Equatoriale et le Burkina Faso. Face à l\'Egypte en finale, ils parviennent à battre l\'équipe adverse aux tirs au but et remportent ainsi leur première CAN.
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="back">back</string>
+    <string name="inscription">inscription</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_stades_fragment">StadesFragment</string>
+    <string name="help_description">
+        Cette application permet de recenser les diffrentes equipes de la ligue 1 senegalaises de Foot Professionel , ainsi que ces equipes, les differentes matches organises et les lieux des differentes stades a laquel on joue le championnat locale sur Google Maps...
+        Tel: 776624844 - 778321300 - 766370028.
+    </string>
+</resources>
